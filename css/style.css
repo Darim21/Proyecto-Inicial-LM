@@ -54,6 +54,12 @@ main .noticias-destacadas .noticias {
     text-align: center;
 }
 
+main .noticias-destacadas .noticias img {
+    width: 55%;
+    height: auto;
+    border-radius: 10px;
+}
+
 main .noticias-destacadas .noticias h3 {
     font-size: 1.5em;
     color: yellow;
