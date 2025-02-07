@@ -315,4 +315,10 @@ main .tienda .productos .producto button:hover {
         padding: 10px;
         font-size: 0.9em;
     }
+
+    iframe{
+    display: none;
+    }
+
+
 }
